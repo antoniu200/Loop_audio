@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1724019021 source:d:\users\alexa\documents\proiecte\loop_audio\main.cpp
+	<iostream>
+	<windows.h>
+	<vector>
+	<fstream>
+	<string>
+	<limits>
+	<cmath>
+	<algorithm>
+	<cstdio>
+
